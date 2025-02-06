@@ -2,7 +2,7 @@
 
 ## Airline_assistant_project
 
-Welcome to the AI Airline Assistant project! This application leverages artificial intelligence to streamline and enhance the travel experience for airline passengers. Designed to assist users with flight information and travel cost details.
+Welcome to the AI Airline Assistant project. This application leverages artificial intelligence to streamline and enhance the travel experience for airline passengers. Designed to assist users with flight information and travel cost details.
 
 ## Features:
 1. Flight Search: Get flight details.
